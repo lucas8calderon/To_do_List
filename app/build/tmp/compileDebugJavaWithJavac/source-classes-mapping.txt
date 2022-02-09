@@ -1,0 +1,10 @@
+br/com/brunoti/kotlintodolist/BuildConfig.java
+ br.com.brunoti.kotlintodolist.BuildConfig
+br/com/brunoti/kotlintodolist/databinding/EmptyStateBinding.java
+ br.com.brunoti.kotlintodolist.databinding.EmptyStateBinding
+br/com/brunoti/kotlintodolist/databinding/ItemTaskBinding.java
+ br.com.brunoti.kotlintodolist.databinding.ItemTaskBinding
+br/com/brunoti/kotlintodolist/databinding/ActivityMainBinding.java
+ br.com.brunoti.kotlintodolist.databinding.ActivityMainBinding
+br/com/brunoti/kotlintodolist/databinding/ActivitySaveTaskBinding.java
+ br.com.brunoti.kotlintodolist.databinding.ActivitySaveTaskBinding
